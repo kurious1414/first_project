@@ -24,3 +24,5 @@ Thumbs.db  # Windows
 
 data_tmp.txt
 tmp_data.txt
+
+.env
